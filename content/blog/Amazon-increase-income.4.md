@@ -7,13 +7,13 @@ description: Define front matter templates, and blocks.
 ---
 ## A visual editor
 
-You don't have to learn Markdown to write in [Forestry](), our visual editor has got your back!
+You don't have to learn Markdown to write in [**Forestry**](), our visual editor has got your back! 😄
 
-### Previews
+### Instant Previews
 
 You can instantly see how your site will render with our Instant Preview feature. Click the icon preview to watch for changes.
 
-### Media
+### Media management
 
 Insert any media in your content from the media library. Host it on [**Cloudinary**]() if you want to benefit from image optimizations.
 
