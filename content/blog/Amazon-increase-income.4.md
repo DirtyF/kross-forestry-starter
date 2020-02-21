@@ -1,8 +1,8 @@
 ---
-title: Amazon increase income 1.5 Million
-date: 2019-05-12T06:14:34.000+00:00
+title: A minimal and elegant user interface
+date: 2020-02-20T07:14:34+00:00
 image: images/blog/post-5.jpg
-description: This is meta description.
+description: Define front matter templates, and blocks.
 
 ---
 ## A visual editor
@@ -11,7 +11,11 @@ You don't have to learn Markdown to write in [Forestry](), our visual editor has
 
 ### Previews
 
+You can instantly see how your site will render with our Instant Preview feature. Click the icon preview to watch for changes.
+
 ### Media
+
+Insert any media in your content from the media library. Host it on [**Cloudinary**]() if you want to benefit from image optimizations.
 
 ![Nintendo Game boy](/images/portfolio/item-2.png)
 
